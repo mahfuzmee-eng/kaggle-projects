@@ -1,3 +1,15 @@
-# Kaggle Projects
+## 📊 Bangladesh Sales Analysis
 
-This repository contains my Kaggle notebooks and ML projects.
+This project analyzes regional sales performance using Python.
+
+### Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
+- Kaggle Dataset
+
+### Key Insights
+- Chittagong shows highest sales
+- Khulna needs marketing improvement
+- Dhaka has growth potential
